@@ -48,7 +48,3 @@ By leveraging KoBART’s strong generative capabilities, the model aims to produ
 ```
 <br/>
 <br/>
-
-*This project explores how pretrained sequence-to-sequence models can be adapted for emotionally coherent summarization in personal narrative texts.*
-<br/>
-<br/>
